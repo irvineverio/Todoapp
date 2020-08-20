@@ -27,7 +27,7 @@ body {
 .title {
     width: 100%;
     height: 25%;
-    background: url(Mountain.jpg);
+    background: url(Background.jpg);
     color: white;
     display: flex;
     justify-content: center;
